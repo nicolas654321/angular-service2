@@ -1,0 +1,15 @@
+[{
+  "name":"morito",
+  "price":7,
+  "img":"imgMorito.jpg"
+},
+{
+  "name":"martini-gin",
+  "price":8,
+  "img":"imgMG.jpg"
+},
+{
+  "name":"cardinal",
+  "price":6,
+  "img":"imgCard.jpg"
+}]
